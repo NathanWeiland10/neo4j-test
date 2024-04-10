@@ -1,20 +1,14 @@
 {"type":"node","id":"0","labels":["Node"],"properties":{"name":"Document Node","id":"DocNode","type":"document"}}
 {"type":"node","id":"1","labels":["Node"],"properties":{"name":"Key Terms Host Node","id":"KTHostNode","type":"HostNode"}}
 {"type":"node","id":"2","labels":["Node"],"properties":{"name":"Annotating Host Node","id":"AHostNode","type":"HostNode"}}
-{"type":"node","id":"3","labels":["Node"],"properties":{"name":"Key Term Node","id":"manager","type":"Key Term"}}
-{"type":"node","id":"4","labels":["Node"],"properties":{"name":"Key Term Node","id":"cmm","type":"Key Term"}}
-{"type":"node","id":"5","labels":["Node"],"properties":{"name":"Annotation Node","data":"We will emphasize two themes:  (1)  the  software  project  manager’s  view  (that  is,  the  obstacles  and  tradeoffs  that  project  managers  face  during  software  development),  and  (2)  the  organizational  view  (that  is,  how  organizations  can  foster  a  climate  where  software  project  management is performed effectively throughout an organization)","id":"S1","type":"Key Term"}}
-{"type":"node","id":"6","labels":["Node"],"properties":{"name":"Annotation Node","data":"Process models in general, with particular emphasis on the CMM (Capability Maturity Model) and CMM   2","id":"S2","type":"Key Term"}}
-{"type":"node","id":"7","labels":["Node"],"properties":{"name":"Annotation Node","data":"The rise of agile methodologies in response to heavyweight CMM methodologies and processes   3","id":"S3","type":"Key Term"}}
-{"type":"node","id":"8","labels":["Node"],"properties":{"name":"Annotation Node","data":"McMahon’s  Integrating CMMI and Agile Development  (Addison-Wesley, 2011)","id":"S4","type":"Key Term"}}
-{"type":"node","id":"9","labels":["Node"],"properties":{"name":"Annotation Node","data":"The course will also teach much on the CMM (Capability Maturity Model), however, no additional book is required, because  plenty of adequate resources on the CMM are available online","id":"S5","type":"Key Term"}}
-{"type":"node","id":"10","labels":["Node"],"properties":{"name":"Annotation Node","data":"Nature and goals of assignment Approx Pg Count As homework, students will prepare sample policies and procedures as  prescribed by the Software Capability Maturity Model (SW-CMM/CMMI)","id":"S6","type":"Key Term"}}
-{"type":"node","id":"11","labels":["Node"],"properties":{"name":"Annotation Node","data":"Describe  how the Software Engineering Institute’s (SEI) Capability Maturity Model (CMM) can be   used to measure and improve an organization’s software development process.","id":"S7","type":"Key Term"}}
-{"type":"node","id":"12","labels":["Node"],"properties":{"name":"Annotation Node","data":"Note some of the differences between the CMM and CMMI, and understand the motivations for the model’s evolution.","id":"S8","type":"Key Term"}}
-{"type":"node","id":"13","labels":["Node"],"properties":{"name":"Annotation Node","data":"Describe the benefits, limitations, and misuses of CMM and CMMI evaluations within a software development  community.","id":"S9","type":"Key Term"}}
-{"type":"node","id":"14","labels":["Node"],"properties":{"name":"Annotation Node","data":"Describe how the CMMI can help agile organizations and vice-versa","id":"S10","type":"Key Term"}}
-{"type":"node","id":"15","labels":["Node"],"properties":{"name":"Annotation Node","data":"Martin Luther King, Jr.    3 2  Project Risk 3  (Jan 22 & 24 ) 4 3 The Software Crisis 5 4 Introducing the CMM 4  (Jan 29 & 31 ) 6 5 Lifecycle Models vs","id":"S11","type":"Key Term"}}
-{"type":"node","id":"16","labels":["Node"],"properties":{"name":"Annotation Node","data":"Test annotation","id":"S12","type":"Key Term"}}
+{"type":"node","id":"3","labels":["Node"],"properties":{"name":"Key Term Node","id":"brazil","type":"Key Term"}}
+{"type":"node","id":"4","labels":["Node"],"properties":{"name":"Key Term Node","id":"julio","type":"Key Term"}}
+{"type":"node","id":"5","labels":["Node"],"properties":{"name":"Annotation Node","data":"Alejandro, Mama’s son, had been killed in a car accident, but Mama didn’t know  since the rest of the family didn’t tell her; they say he had gotten a contract in  Brazil for an engineering friend","id":"S1","type":"Key Term"}}
+{"type":"node","id":"6","labels":["Node"],"properties":{"name":"Annotation Node","data":"Tensions start to rise in Brazil causing problems for Alejandro","id":"S2","type":"Key Term"}}
+{"type":"node","id":"7","labels":["Node"],"properties":{"name":"Annotation Node","data":"The Health of the Sick  -   Julio Cortazar","id":"S3","type":"Key Term"}}
+{"type":"node","id":"8","labels":["Node"],"properties":{"name":"Annotation Node","data":"Rosa gets Alejandro’s last letter and she thinks of how they’ll break the news to  Alejandro that Mama is dead     The Island at Noon  -   Julio Cortazar","id":"S4","type":"Key Term"}}
+{"type":"node","id":"9","labels":["Node"],"properties":{"name":"Annotation Node","data":"The Continuity of Parks  -   Julio Cortazar","id":"S5","type":"Key Term"}}
+{"type":"node","id":"10","labels":["Node"],"properties":{"name":"Annotation Node","data":"Julio is GAY","id":"S6","type":"Key Term"}}
 {"id":"0","type":"relationship","label":"Document Key Terms","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
 {"id":"1","type":"relationship","label":"Document Annotations","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
 {"id":"2","type":"relationship","label":"Key Term","start":{"id":"3","labels":["Node"]},"end":{"id":"1","labels":["Node"]}}
@@ -25,9 +19,3 @@
 {"id":"7","type":"relationship","label":"Annotation","start":{"id":"8","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
 {"id":"8","type":"relationship","label":"Annotation","start":{"id":"9","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
 {"id":"9","type":"relationship","label":"Annotation","start":{"id":"10","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
-{"id":"10","type":"relationship","label":"Annotation","start":{"id":"11","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
-{"id":"11","type":"relationship","label":"Annotation","start":{"id":"12","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
-{"id":"12","type":"relationship","label":"Annotation","start":{"id":"13","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
-{"id":"13","type":"relationship","label":"Annotation","start":{"id":"14","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
-{"id":"14","type":"relationship","label":"Annotation","start":{"id":"15","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
-{"id":"15","type":"relationship","label":"Annotation","start":{"id":"16","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
