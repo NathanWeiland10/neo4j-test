@@ -1,0 +1,29 @@
+{"type":"node","id":"0","labels":["Node"],"properties":{"name":"Document Node","id":"DocNode","type":"document"}}
+{"type":"node","id":"1","labels":["Node"],"properties":{"name":"Key Terms Host Node","id":"KTHostNode","type":"HostNode"}}
+{"type":"node","id":"2","labels":["Node"],"properties":{"name":"Annotating Host Node","id":"AHostNode","type":"HostNode"}}
+{"type":"node","id":"3","labels":["Node"],"properties":{"name":"Key Term Node","id":"essay","type":"Key Term"}}
+{"type":"node","id":"4","labels":["Node"],"properties":{"name":"Key Term Node","id":"plan","type":"Key Term"}}
+{"type":"node","id":"5","labels":["Node"],"properties":{"name":"Key Term Node","id":"note","type":"Key Term"}}
+{"type":"node","id":"6","labels":["Node"],"properties":{"name":"Annotation Node","data":"I will do my best to structure this class  so that the time spent in the classroom will foster learning in an engaging way; please be similarly courteous and come ready  to participate and learn. (Exceptions can be made for those who are truly taking notes, and not pretending to take notes.)   The textbook for this class Paul E","id":"S1","type":"Annotation"}}
+{"type":"node","id":"7","labels":["Node"],"properties":{"name":"Annotation Node","data":"The goal of a programming team is not  confined to “hacking out” a working program, but to engineering the software, which includes eliciting, understanding, and  analyzing system requirements; working out an architectural design; integrating components; planning for adequate testing;  and creating useful documentation for the end user","id":"S2","type":"Annotation"}}
+{"type":"node","id":"8","labels":["Node"],"properties":{"name":"Annotation Node","data":"At the end of the term, each group turns in a software development folder (SDF), which is a  compilation  of  the  several  artifacts,  such  as:  a  project  plan  and  schedule,  a  summary  of  the  development  strategy  used,  a  requirements specification, architectural design documents and diagrams, use case scenarios, source code, test results, and a  rudimentary user’s guide","id":"S3","type":"Annotation"}}
+{"type":"node","id":"9","labels":["Node"],"properties":{"name":"Annotation Node","data":"Still, meticulous  note-taking and thorough design documentation can pay handsome dividends in this course","id":"S4","type":"Annotation"}}
+{"type":"node","id":"10","labels":["Node"],"properties":{"name":"Annotation Node","data":"It is expected that the essay will deftly  compare and contrast the implementation differences in a thoughtful manner,  using proper English style. 2 Students will research a major software development failure, and write about  why this project failed","id":"S5","type":"Annotation"}}
+{"type":"node","id":"11","labels":["Node"],"properties":{"name":"Annotation Node","data":"Note some of the differences between the CMM and CMMI, and understand the motivations for the model’s evolution.","id":"S6","type":"Annotation"}}
+{"type":"node","id":"12","labels":["Node"],"properties":{"name":"Annotation Node","data":"After reading 15 or 20 essays on the same topic, I  get  a  pretty  good  idea  of  which  papers  are  more  well-thought-out  than  others","id":"S7","type":"Annotation"}}
+{"type":"node","id":"13","labels":["Node"],"properties":{"name":"Annotation Node","data":"Mixed-format exams, administered in class; with  multiple choice questions, plus short answer/essays. 15% Final Exam","id":"S8","type":"Annotation"}}
+{"type":"node","id":"14","labels":["Node"],"properties":{"name":"Annotation Node","data":"Example annotation","id":"S9","type":"Annotation"}}
+{"id":"0","type":"relationship","label":"Document Key Terms","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"id":"1","type":"relationship","label":"Document Annotations","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"id":"2","type":"relationship","label":"Key Term","start":{"id":"3","labels":["Node"]},"end":{"id":"1","labels":["Node"]}}
+{"id":"3","type":"relationship","label":"Key Term","start":{"id":"4","labels":["Node"]},"end":{"id":"1","labels":["Node"]}}
+{"id":"4","type":"relationship","label":"Key Term","start":{"id":"5","labels":["Node"]},"end":{"id":"1","labels":["Node"]}}
+{"id":"5","type":"relationship","label":"Annotation","start":{"id":"6","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"6","type":"relationship","label":"Annotation","start":{"id":"7","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"7","type":"relationship","label":"Annotation","start":{"id":"8","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"8","type":"relationship","label":"Annotation","start":{"id":"9","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"9","type":"relationship","label":"Annotation","start":{"id":"10","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"10","type":"relationship","label":"Annotation","start":{"id":"11","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"11","type":"relationship","label":"Annotation","start":{"id":"12","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"12","type":"relationship","label":"Annotation","start":{"id":"13","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
+{"id":"13","type":"relationship","label":"Annotation","start":{"id":"14","labels":["Node"]},"end":{"id":"2","labels":["Node"]}}
