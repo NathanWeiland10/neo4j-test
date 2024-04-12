@@ -1,9 +1,9 @@
 {"type":"node","id":"0","labels":["Node"],"properties":{"name":"Document Node","id":"DocNode","type":"document"}}
-{"type":"node","id":"1","labels":["Node"],"properties":{"name":"Key Term Node","id":"essay","type":"Key Term"}}
-{"type":"node","id":"2","labels":["Node"],"properties":{"name":"Annotation Node","data":"  It is expected that the essay will deftly  compare and contrast the implementation differences in a thoughtful manner,  using proper English style. 2 Students will research a major software development failure, and write about  why this project failed","confidence":17,"likelihood":16,"id":"S1","type":"Annotation"}}
-{"type":"node","id":"3","labels":["Node"],"properties":{"name":"Annotation Node","data":"   After reading 15 or 20 essays on the same topic, I  get  a  pretty  good  idea  of  which  papers  are  more  well-thought-out  than  others","confidence":48,"likelihood":50,"id":"S2","type":"Annotation"}}
-{"type":"node","id":"4","labels":["Node"],"properties":{"name":"Annotation Node","data":" Mixed-format exams, administered in class; with  multiple choice questions, plus short answer/essays. 15% Final Exam","confidence":76,"likelihood":76,"id":"S3","type":"Annotation"}}
-{"id":"0","type":"relationship","label":"Key Term","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"1","type":"relationship","label":"Annotation","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"2","type":"relationship","label":"Annotation","start":{"id":"3","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"3","type":"relationship","label":"Annotation","start":{"id":"4","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"node","labels":["Node"],"properties":{"name":"Key Term Node","id":"essay","type":"Key Term"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":"  It is expected that the essay will deftly  compare and contrast the implementation differences in a thoughtful manner,  using proper English style. 2 Students will research a major software development failure, and write about  why this project failed","confidence":22,"likelihood":13,"id":"S1","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":"   After reading 15 or 20 essays on the same topic, I  get  a  pretty  good  idea  of  which  papers  are  more  well-thought-out  than  others","confidence":50,"likelihood":50,"id":"S2","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Mixed-format exams, administered in class; with  multiple choice questions, plus short answer/essays. 15% Final Exam","confidence":77,"likelihood":93,"id":"S3","type":"Annotation"}}
+{"type":"relationship","label":"Key Term","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"3","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"4","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
