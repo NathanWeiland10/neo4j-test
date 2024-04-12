@@ -1,15 +1,31 @@
-{"type":"node","id":"0","labels":["Node"],"properties":{"name":"Document Node","id":"DocNode","type":"document"}}
-{"type":"node","id":"1","labels":["Node"],"properties":{"name":"Key Term Node","id":"essay","type":"Key Term"}}
-{"type":"node","id":"2","labels":["Node"],"properties":{"name":"Key Term Node","id":"approach","type":"Key Term"}}
-{"type":"node","id":"3","labels":["Node"],"properties":{"name":"Annotation Node","data":" Balancing the s trengths of both “agile” and “disciplined” approaches to software project management  How we will get there   Class  meets  from  6:10  pm  to  7:30  pm  on  Mondays  and  Wednesdays  in  Russ  144,  where  topics  will  be  taught  in  a  collaborative  manner","confidence":"72","likelihood":"39","id":"S1","type":"Annotation"}}
-{"type":"node","id":"4","labels":["Node"],"properties":{"name":"Annotation Node","data":"  The exact content of this folder will vary from group to group, depending on the approach the group elects to take, and the  amount of documentation generated as they complete their project","confidence":"95","likelihood":"50","id":"S2","type":"Annotation"}}
-{"type":"node","id":"5","labels":["Node"],"properties":{"name":"Annotation Node","data":"  It is expected that the essay will deftly  compare and contrast the implementation differences in a thoughtful manner,  using proper English style. 2 Students will research a major software development failure, and write about  why this project failed","confidence":"78","likelihood":"50","id":"S3","type":"Annotation"}}
-{"type":"node","id":"6","labels":["Node"],"properties":{"name":"Annotation Node","data":"   After reading 15 or 20 essays on the same topic, I  get  a  pretty  good  idea  of  which  papers  are  more  well-thought-out  than  others","confidence":"84","likelihood":"45","id":"S4","type":"Annotation"}}
-{"type":"node","id":"7","labels":["Node"],"properties":{"name":"Annotation Node","data":" Mixed-format exams, administered in class; with  multiple choice questions, plus short answer/essays. 15% Final Exam","confidence":"21","likelihood":"37","id":"S5","type":"Annotation"}}
-{"id":"0","type":"relationship","label":"Key Term","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"1","type":"relationship","label":"Key Term","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"2","type":"relationship","label":"Annotation","start":{"id":"3","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"3","type":"relationship","label":"Annotation","start":{"id":"4","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"4","type":"relationship","label":"Annotation","start":{"id":"5","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"5","type":"relationship","label":"Annotation","start":{"id":"6","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"6","type":"relationship","label":"Annotation","start":{"id":"7","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"node","labels":["Node"],"properties":{"name":"Document Node","id":"DocNode","type":"document"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Key Term Node","id":"essay","type":"Key Term"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Key Term Node","id":"cmm","type":"Key Term"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Process models in general, with particular emphasis on the CMM (Capability Maturity Model) and CMM   2","confidence":85,"likelihood":35,"id":"S1","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" The rise of agile methodologies in response to heavyweight CMM methodologies and processes   3","confidence":69,"likelihood":30,"id":"S2","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" McMahon’s  Integrating CMMI and Agile Development  (Addison-Wesley, 2011)","confidence":75,"likelihood":76,"id":"S3","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":"    The course will also teach much on the CMM (Capability Maturity Model), however, no additional book is required, because  plenty of adequate resources on the CMM are available online","confidence":50,"likelihood":50,"id":"S4","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":"  Nature and goals of assignment Approx Pg Count As homework, students will prepare sample policies and procedures as  prescribed by the Software Capability Maturity Model (SW-CMM/CMMI)","confidence":50,"likelihood":50,"id":"S5","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":"  It is expected that the essay will deftly  compare and contrast the implementation differences in a thoughtful manner,  using proper English style. 2 Students will research a major software development failure, and write about  why this project failed","confidence":50,"likelihood":50,"id":"S6","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Describe  how the Software Engineering Institute’s (SEI) Capability Maturity Model (CMM) can be   used to measure and improve an organization’s software development process.","confidence":50,"likelihood":50,"id":"S7","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Note some of the differences between the CMM and CMMI, and understand the motivations for the model’s evolution.","confidence":50,"likelihood":50,"id":"S8","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Describe the benefits, limitations, and misuses of CMM and CMMI evaluations within a software development  community.","confidence":50,"likelihood":50,"id":"S9","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Describe how the CMMI can help agile organizations and vice-versa","confidence":50,"likelihood":50,"id":"S10","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":"   After reading 15 or 20 essays on the same topic, I  get  a  pretty  good  idea  of  which  papers  are  more  well-thought-out  than  others","confidence":50,"likelihood":50,"id":"S11","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Mixed-format exams, administered in class; with  multiple choice questions, plus short answer/essays. 15% Final Exam","confidence":50,"likelihood":50,"id":"S12","type":"Annotation"}}
+{"type":"node","labels":["Node"],"properties":{"name":"Annotation Node","data":" Martin Luther King, Jr.    3 2  Project Risk 3  (Jan 22 & 24 ) 4 3 The Software Crisis 5 4 Introducing the CMM 4  (Jan 29 & 31 ) 6 5 Lifecycle Models vs","confidence":50,"likelihood":50,"id":"S13","type":"Annotation"}}
+{"type":"relationship","label":"Key Term","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Key Term","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"3","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"4","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"5","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"6","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"7","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"8","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"9","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"10","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"11","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"12","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"13","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"14","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","label":"Annotation","start":{"id":"15","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
