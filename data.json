@@ -17,21 +17,21 @@
 {"type":"node","id":"16","neo4jImportId":"16","labels":["Node"],"properties":{"name":"Annotation Node","data":" Similar to the sons’ conditions, nature is in control when determining the fate of the daughter without any control from the parents","id":"S14","confidence":50,"likelihood":50,"type":"Annotation"}}
 {"type":"node","id":"17","neo4jImportId":"17","labels":["Node"],"properties":{"name":"Annotation Node","data":" It can be argued that in this story, the main character is nature itself since it is the driving force of the plot whereas the family had little control of what happened and were simply reactions to nature’s actions","id":"S15","confidence":50,"likelihood":50,"type":"Annotation"}}
 {"type":"node","id":"18","neo4jImportId":"18","labels":["Node"],"properties":{"name":"Annotation Node","data":" This story provides a more realistic view of life and Weiland 3 Overall, nature takes on a variety of roles in the stories we have read, whether it be an unstoppable force against the characters, an obstacle to overcome, or simply just the setting of the story. 2","id":"S16","confidence":50,"likelihood":50,"type":"Annotation"}}
-{"id":"0","neo4jImportId":"19","type":"relationship","label":"Key Term","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"1","neo4jImportId":"20","type":"relationship","label":"Key Term","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"2","neo4jImportId":"21","type":"relationship","label":"Annotation","start":{"id":"3","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"3","neo4jImportId":"22","type":"relationship","label":"Annotation","start":{"id":"4","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"4","neo4jImportId":"23","type":"relationship","label":"Annotation","start":{"id":"5","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"5","neo4jImportId":"24","type":"relationship","label":"Annotation","start":{"id":"6","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"6","neo4jImportId":"25","type":"relationship","label":"Annotation","start":{"id":"7","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"7","neo4jImportId":"26","type":"relationship","label":"Annotation","start":{"id":"8","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"8","neo4jImportId":"27","type":"relationship","label":"Annotation","start":{"id":"9","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"9","neo4jImportId":"28","type":"relationship","label":"Annotation","start":{"id":"10","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"10","neo4jImportId":"29","type":"relationship","label":"Annotation","start":{"id":"11","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"11","neo4jImportId":"30","type":"relationship","label":"Annotation","start":{"id":"12","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"12","neo4jImportId":"31","type":"relationship","label":"Annotation","start":{"id":"13","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"13","neo4jImportId":"32","type":"relationship","label":"Annotation","start":{"id":"14","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"14","neo4jImportId":"33","type":"relationship","label":"Annotation","start":{"id":"15","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"15","neo4jImportId":"34","type":"relationship","label":"Annotation","start":{"id":"16","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"16","neo4jImportId":"35","type":"relationship","label":"Annotation","start":{"id":"17","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
-{"id":"17","neo4jImportId":"36","type":"relationship","label":"Annotation","start":{"id":"18","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"0","label":"Key Term","start":{"id":"1","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"1","label":"Key Term","start":{"id":"2","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"2","label":"Annotation","start":{"id":"3","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"3","label":"Annotation","start":{"id":"4","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"4","label":"Annotation","start":{"id":"5","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"5","label":"Annotation","start":{"id":"6","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"6","label":"Annotation","start":{"id":"7","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"7","label":"Annotation","start":{"id":"8","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"8","label":"Annotation","start":{"id":"9","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"9","label":"Annotation","start":{"id":"10","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"10","label":"Annotation","start":{"id":"11","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"11","label":"Annotation","start":{"id":"12","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"12","label":"Annotation","start":{"id":"13","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"13","label":"Annotation","start":{"id":"14","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"14","label":"Annotation","start":{"id":"15","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"15","label":"Annotation","start":{"id":"16","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"16","label":"Annotation","start":{"id":"17","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
+{"type":"relationship","id":"17","label":"Annotation","start":{"id":"18","labels":["Node"]},"end":{"id":"0","labels":["Node"]}}
